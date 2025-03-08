@@ -47,7 +47,7 @@ export default function DirectorPage() {
                     <div className="aspect-square rounded-xl overflow-hidden mb-6">
                       <img
                         src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=800&q=80"
-                        alt="Koushik Bhattacharyya - Director"
+                        alt="Another Name - Director"
                         className="w-full h-full object-cover"
                       />
                     </div>
@@ -129,7 +129,7 @@ export default function DirectorPage() {
                       <div className="flex items-center justify-between">
                         <div>
                           <p className="text-xl font-bold text-gray-900">
-                            Koushik Bhattacharyya
+                            Another Name
                           </p>
                           <p className="text-[#e31e24] font-medium">Director</p>
                           <p className="text-sm text-gray-600 mt-1">

@@ -6,7 +6,7 @@ import { Mail, Twitter, Linkedin, Facebook } from 'lucide-react';
 
 const leaders = [
   {
-    name: 'Abhijit Chatterjee',
+    name: 'Your Name',
     title: 'Chairman',
     company: 'Ascensive HR Consultants Pvt. Ltd.',
     message: 'Dear esteemed colleagues, partners, and patrons,',
@@ -20,7 +20,7 @@ const leaders = [
     }
   },
   {
-    name: 'Koushik Bhattacharyya',
+    name: 'Another Name',
     title: 'Director',
     company: 'Ascensive HR Consultants Pvt. Ltd.',
     message: 'Dear Friends,',

@@ -109,17 +109,17 @@ export function Footer() {
                 </Button>
               </div>
               <div className="mt-6 space-y-3">
-                <a href="mailto:connect.ahrc@aimetr.com" className="flex items-center gap-2 text-sm hover:text-[#e31e24] transition-colors duration-200">
+                <a href="mailto:contact@example.com" className="flex items-center gap-2 text-sm hover:text-[#e31e24] transition-colors duration-200">
                   <Mail className="w-4 h-4" />
-                  connect.ahrc@aimetr.com
+                  contact@example.com
                 </a>
-                <a href="tel:6292318395" className="flex items-center gap-2 text-sm hover:text-[#e31e24] transition-colors duration-200">
+                <a href="tel:9876543210" className="flex items-center gap-2 text-sm hover:text-[#e31e24] transition-colors duration-200">
                   <Phone className="w-4 h-4" />
-                  +91 6292318395
+                  +91 9876543210
                 </a>
                 <div className="flex items-center gap-2 text-sm">
                   <MapPin className="w-4 h-4 shrink-0" />
-                  <span>Sector-V, Salt Lake City, Kolkata-700091</span>
+                  <span>Near Infotech Plaza, Bengaluru-560102</span>
                 </div>
               </div>
             </div>

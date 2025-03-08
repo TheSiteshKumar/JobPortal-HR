@@ -7,7 +7,7 @@ import Link from 'next/link';
 
 const managementTeam = [
   {
-    name: 'Abhijit Chatterjee',
+    name: 'Your Name',
     position: 'Chairman and CEO',
     image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80',
     description: 'Leading AHRC with vision and innovation',
@@ -18,7 +18,7 @@ const managementTeam = [
     link: '/about/chairman'
   },
   {
-    name: 'Koushik Bhattacharyya',
+    name: 'Another Name',
     position: 'Director',
     image: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=800&q=80',
     description: 'Spearheading strategic initiatives',

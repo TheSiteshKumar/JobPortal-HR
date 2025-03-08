@@ -88,7 +88,7 @@ export default function ChairmanPage() {
                       <div className="flex items-center justify-between">
                         <div>
                           <p className="text-xl font-bold text-gray-900">
-                            Abhijit Chatterjee
+                            Your Name
                           </p>
                           <p className="text-[#e31e24] font-medium">
                             Chairman & CEO
@@ -122,7 +122,7 @@ export default function ChairmanPage() {
                     <div className="aspect-square rounded-xl overflow-hidden mb-6">
                       <img
                         src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80"
-                        alt="Abhijit Chatterjee - Chairman & CEO"
+                        alt="Your Name - Chairman & CEO"
                         className="w-full h-full object-cover"
                       />
                     </div>
