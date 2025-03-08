@@ -109,7 +109,7 @@ export default function Navigation() {
 
         {/* Sign In Button */}
         <div className="flex items-center gap-4">
-          <Link href="/sign-in">
+          <Link href="#">
             <Button 
               variant="outline" 
               className="hidden md:flex items-center gap-2 border-[#e31e24] text-[#e31e24] hover:bg-[#e31e24] hover:text-white"
